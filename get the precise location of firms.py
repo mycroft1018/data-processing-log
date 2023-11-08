@@ -56,7 +56,7 @@ import time
 import random
 import pandas as pd
 import time
-df = pd.read_csv('C:\\Users\\mycro.SHEERAN_CORE\\Desktop\\文件夹汇总\\cyq数据\\cyq数据.csv')
+df = pd.read_csv('C:\\Users\\data.csv') #加载需要的数据，是一列企业名称数据
 original_data = []
 original_data1 = []
 i=0
